@@ -1,7 +1,6 @@
-Ionic App Base
+Ionic App Na pressa
 ==============
-
-A starting project for Ionic that optionally supports using custom SCSS.
+Projeto desenvolvido em 1hr para ajudar um amigo desesperado
 
 ## Using this project
 
