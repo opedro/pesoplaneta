@@ -1,0 +1,17 @@
+/* Empty. Add your own CSS if you like */
+.btn{
+	    width: 46%;
+                background-color: #4285F4;
+                -webkit-appearance: none;
+                font-size: .8rem;
+                padding: .85rem 2.13rem;
+                margin: 6px;
+                border-radius: 2px;
+                border: 0;
+                -webkit-transition: .2s ease-out;
+                transition: .2s ease-out;
+                white-space: normal!important;
+                word-wrap: break-word;
+                border: none;
+                color: white;
+}
